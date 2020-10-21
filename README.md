@@ -25,3 +25,9 @@ for account in instance.accounts():
         print(f"New transaction: {tx}")
         tx.set_checkmark()
 ```
+
+# Install 
+
+``pip install git+https://github.com/jerik/py-money.git#egg=py-money``
+or 
+``python -m pip install git+https://github.com/jerik/py-money.git#egg=py-money``
