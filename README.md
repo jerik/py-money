@@ -29,5 +29,7 @@ for account in instance.accounts():
 # Install 
 
 ``pip install git+https://github.com/jerik/py-money.git#egg=py-money``
-or 
+
+or
+
 ``python -m pip install git+https://github.com/jerik/py-money.git#egg=py-money``
