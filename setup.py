@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="money",
+    name="py-money",
     version="0.1.1",
     author="Mirko Dziadzka",
     author_email="mirko.dziadzka@gmail.com",
